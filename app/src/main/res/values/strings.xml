@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz2</string>
+    <string-array name="emp">
+        <item>Full Time</item>
+        <item>Part Time</item>
+    </string-array>
+
+    <string-array name="list">
+
+
+    </string-array>
+</resources>
